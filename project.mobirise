@@ -34,7 +34,8 @@
       "additionalSetColors": [
         "#99a49d",
         "#e8d1b5",
-        "#e9e9e7"
+        "#e9e9e7",
+        "#e85a4f"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -70,8 +71,8 @@
       "textButton": "Принять",
       "rejectText": "REJECT"
     },
-    "favicon": false,
-    "mbrsiteDomain": "tpdcpfxhdx",
+    "favicon": "@PROJECT_PATH@/assets/images/untitled-design-31-128x128.png",
+    "mbrsiteDomain": "iskcpl8fad",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
